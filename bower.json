@@ -5,7 +5,7 @@
   "description": "Test tinkering with your bower and node modules",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kmalakoff/tinker-test.git"
+    "url": "https://github.com/kmalakoff/tinker-test.git"
   },
   "dependencies": {
     "underscore": "*",
